@@ -3,7 +3,11 @@ Event Coreference Resolution On Twitter
 Description
 ===========
 
-This corpus consists of a total of 2994 tweet IDs. All tweets need to be processed by tokenizer {tokenizer.py} we provided if you use your own data. However, you can use directly the data {corpus.txt} without tokenizer. All the tweets were obtained from Twitter's streaming API over a 31-day period from October 8, 2016 to November 7, 2016. 
+This corpus consists of a total of 2994 tweet IDs. All the tweets were obtained from Twitter's streaming API over a 31-day period from October 8, 2016 to November 7, 2016. As we do not have permission to distribute the tweets themselves, we have removed the terms, replacing them with "WORD", to create the dataset you will need to do the following:
+* 1) Download the tweets
+* 2) Tokenize the tweets using tokenizer.py
+* 3) Merge the tweets with the annotations
+
 
 Statistics of the corpus
 ===========
@@ -46,7 +50,7 @@ The following lists our annotation standard:
 
 The format of our corpus
 ===========
-Our annotator annotated the event trigger and event instance ID of all tweets. The format of corpus.txt is:
+Our annotator annotated the event trigger and event instance ID of all tweets. corpus.txt contains seven tab separated columns, the format of corpus.txt is:
 
 | # |  Name   | Explanation |
 |---| --- | ----
@@ -56,7 +60,7 @@ Our annotator annotated the event trigger and event instance ID of all tweets. T
 | 4 |event_mention_trigger   | trigger of event mention
 | 5 |tweet_timestamp         | timestamp of tweet from twitter streaming API
 | 6 |tweet_text              | text of tweet from twitter streaming API
-| 7 |event_mention_distance  | distance infomation of event mention
+
 
 
 
