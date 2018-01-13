@@ -8,12 +8,12 @@ This corpus consists of a total of 2994 tweet IDs.  All tweets need to be proces
 Statistics of the corpus
 ===========
  
+|               | Total           | 
+| ------------- |:-------------:| 
+| ctweet        | 2994          |
+| event mention | 1111          |
+| event instance| 3879          |
 
-|      | Total    |
-    | --------   | -----:   |
-    | tweet        | 2994 
-    | event mention  | 1111 
-    | event instance | 3879
 
 
 How to create our corpus
