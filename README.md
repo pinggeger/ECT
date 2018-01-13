@@ -8,7 +8,7 @@ This corpus consists of a total of 2994 tweet IDs.  All tweets need to be proces
 Statistics of the corpus
 ===========
  
-|               | Total           | 
+|               | Total         | 
 | ------------- |:-------------:| 
 | ctweet        | 2994          |
 | event mention | 1111          |
@@ -34,7 +34,7 @@ The following lists our annotation standard:
 
 
 20 words are:
-
+|               |               |               |               |
 | -------------   |:-----------------:| -----------------:|:-----------------:| 
 | pay             |       attack        |      defend       |       blame      |
 | endorse         |       reveal        |      assault      |       build      |
