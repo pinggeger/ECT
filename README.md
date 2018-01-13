@@ -3,7 +3,7 @@ Event Coreference Resolution On Twitter
 Description
 ===========
 
-This corpus consists of a total of 2994 tweet IDs.  All tweets need to be processed by tokenizer we provided before you used. All the tweets were obtained from Twitter's streaming API over a 31-day period from October 8, 2016 to November 7, 2016. 
+This corpus consists of a total of 2994 tweet IDs. All tweets need to be processed by tokenizer {tokenizer.py} we provided if you use your own data. However, you can use directly the data {corpus.txt} without tokenizer. All the tweets were obtained from Twitter's streaming API over a 31-day period from October 8, 2016 to November 7, 2016. 
 
 Statistics of the corpus
 ===========
