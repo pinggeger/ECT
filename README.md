@@ -35,7 +35,7 @@ The following lists our annotation standard:
 
 20 words are:
 |               |               |               |               |
-| -------------   |:-----------------:| -----------------:|:-----------------:| 
+| -------------   |:-----------------:| :-----------------:|:-----------------:| 
 | pay             |       attack        |      defend       |       blame      |
 | endorse         |       reveal        |      assault      |       build      |
 | investigate     |       refuse        |       sing        |       impact     |
