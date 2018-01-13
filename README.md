@@ -48,13 +48,15 @@ The format of our corpus
 ===========
 Our annotator annotated the event trigger and event instance ID of all tweets. The format of corpus.txt is:
 
-event_mention_id
-tweet_id
-event_instance_id
-event_mention_trigger
-tweet_timestamp
-tweet_text
-event_mention_distance
+| # |  Name   | Explanation |
+|---| --- | ----
+| 1 |event_mention_id        | ID of event mention
+| 2 |tweet_id                | id_str of tweet from twitter streaming API
+| 3 |event_instance_id       | ID of event
+| 4 |event_mention_trigger   | trigger of event mention
+| 5 |tweet_timestamp         | timestamp of tweet from twitter streaming API
+| 6 |tweet_text              | text of tweet from twitter streaming API
+| 7 |event_mention_distance  | distance infomation of event mention
 
 
 
