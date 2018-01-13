@@ -33,9 +33,8 @@ The following lists our annotation standard:
 * Event trigger could be nouns, noun phrases, verbs and verb phrases.
 
 
-20 words are:
-|               |               |               |               |
-| -------------   |:-----------------:| :-----------------:|:-----------------:| 
+20 words are: 
+|                 |                     |                   |                  |
 | pay             |       attack        |      defend       |       blame      |
 | endorse         |       reveal        |      assault      |       build      |
 | investigate     |       refuse        |       sing        |       impact     |
