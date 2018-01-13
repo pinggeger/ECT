@@ -34,12 +34,12 @@ The following lists our annotation standard:
 
 
 20 words are: 
-|                 |                     |                   |                  |
-| pay             |       attack        |      defend       |       blame      |
-| endorse         |       reveal        |      assault      |       build      |
-| investigate     |       refuse        |       sing        |       impact     |
-| retire          |       judge         |      discover     |       scream     |
-| expose          |       explain       |      disappear    |       donate     |
+|      ---        |       ---           |       ---         |       ---        |
+| pay             |       attack        |      defend       |       blame      
+| endorse         |       reveal        |      assault      |       build      
+| investigate     |       refuse        |       sing        |       impact     
+| retire          |       judge         |      discover     |       scream     
+| expose          |       explain       |      disappear    |       donate     
 
 
 
